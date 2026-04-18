@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Ração Premium Cães 15kg",
+    "price": 189.90,
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=400"
+  },
+  {
+    "id": 2,
+    "name": "Arranhador Torre para Gatos",
+    "price": 129.50,
+    "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=400"
+  },
+  {
+    "id": 3,
+    "name": "Coleira Refletiva Ajustável",
+    "price": 35.00,
+    "image": "https://plus.unsplash.com/premium_photo-1664299863261-22fb18ff2420?w=400"
+  },
+  {
+    "id": 4,
+    "name": "Brinquedo Osso de Borracha",
+    "price": 18.90,
+    "image": "https://images.unsplash.com/photo-1647413661138-16e00e470877?w=400"
+  },
+  {
+    "id": 5,
+    "name": "Petisco Sabor Carne",
+    "price": 12.00,
+    "image": "https://images.unsplash.com/photo-1623348123048-282b883d6a71?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Cama Confort P/M",
+    "price": 89.90,
+    "image": "https://images.unsplash.com/photo-1601002598377-512ec8280f5c?w=400"
+  }
+]
